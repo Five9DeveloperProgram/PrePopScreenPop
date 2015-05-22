@@ -7,7 +7,9 @@ See the Web2Campaign API guide for a list of all possible flags that can be set 
 * F9TimeToCall & F9TimeFormat: used to schedule future phone calls
 * Review the Limits for Bulk Processing section which details default restrictions on the amount of hourly and daily W2C submissions
 * Lastly this code sample is meant to serve purely as an *example*. In most cases it will need to be adapted to fit your particular need.
-###Unmanaged Package Installation Link
+* 
+###Unmanaged Package Installation Link:
 [https://login.salesforce.com/packaging/installPackage.apexp?p0=04td0000000N5bE](https://login.salesforce.com/packaging/installPackage.apexp?p0=04td0000000N5bE)
+
 ###Demonstration Video:
 [![Demo Video](http://i.imgur.com/J769PGn.png "Watch on YouTube")](http://www.youtube.com/watch?v=z1ZE-w03oNY)
